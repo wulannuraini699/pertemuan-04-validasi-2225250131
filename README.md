@@ -15,6 +15,7 @@ python3 latihan/03_validasi_rentang.py
 python3 latihan/04_validasi_tipe.py
 python3 latihan/05_klasifikasi_segitiga_sudut.py
 
+**### Hasil Pengujian Program:**
 Kategori,Syarat Logika,Contoh Input,Output Diharapkan
 A|nilai >= 85,85 dan 100,Predikat A
 B|nilai >= 70,70 dan 84.9,Predikat B
